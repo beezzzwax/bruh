@@ -1,6 +1,12 @@
 h1 {
-    text-align: center;
-    border: 2px solid orange;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid turquoise;
     padding: auto;
-    
+    text-align: center;
+    display: inline-block;
+}
+html {
+    background-color: white;
+    color: black;
 }
