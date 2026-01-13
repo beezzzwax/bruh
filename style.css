@@ -1,12 +1,14 @@
 h1 {
-    margin-right: auto;
-    margin-left: auto;
+    font-family: 'Arial Black', sans-serif;
+    font-size: 50px;
     border: 2px solid turquoise;
     padding: auto;
     text-align: center;
     display: inline-block;
 }
-html {
-    background-color: white;
-    color: black;
+p {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 20px;
+    color: purple;
+    text-align: center;
 }
