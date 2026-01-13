@@ -11,3 +11,8 @@ p {
     color: purple;
     text-align: center;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid orange;}
