@@ -70,3 +70,22 @@ img {
 .search button img{
     width:16px;
 }
+.weather-icon{
+    width:170px;
+    margin-top:30px;
+}
+.weather h4{
+    font-size:64px;
+    font-weight:600;
+}
+.weather h5{
+    font-size:32px;
+    font-weight:500;
+    margin-top: -10px;
+}
+.details{
+    display:flex;
+    justify-content:space-between;
+    margin-top:30px;
+    padding: 0 20px;
+}
