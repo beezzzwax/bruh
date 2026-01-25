@@ -45,22 +45,22 @@ img {
     border-radius:50px;
     padding:10px 20px;
 }
-/* ...existing code... */
 .search input{
     border:none;
     outline:none;
-    font-size:30px;  /* Changed from 18px to match h2 */
+    font-size:18px;
     font-weight:500;
     color:#555;
     padding: 10px 25px;
-    height:80px;  /* Increased from 60px for better proportion */
+    height:60px;
     border-radius: 30px;
     flex: 1;
     margin-right: 16px;
+    font-size: 18px;
 }
 .search button{
-    width:80px;  /* Increased from 60px */
-    height:80px;  /* Increased from 60px */
+    width:60px;
+    height:60px;
     border:none;
     outline:none;
     background: #ebfffc;
@@ -68,6 +68,5 @@ img {
     cursor:pointer; 
 }
 .search button img{
-    width:24px;  /* Increased from 16px to scale with button */
+    width:16px;
 }
-/* ...existing code... */
