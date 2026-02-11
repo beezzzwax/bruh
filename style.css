@@ -28,7 +28,7 @@ img {
 }
 body{
     background: url(images/default.gif) no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 .sidenav {
   height: 100%;
@@ -72,4 +72,8 @@ body{
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+.grok {
+    margin-left: auto;
+    margin-right: auto;
 }
