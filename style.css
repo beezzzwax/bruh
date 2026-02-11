@@ -28,7 +28,7 @@ img {
 }
 body{
     background: url(images/default.gif) no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 .sidenav {
   height: 100%;
