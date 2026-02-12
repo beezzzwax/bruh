@@ -28,7 +28,7 @@ img {
     box-sizing:border-box;
 }
 body{
-    background: url(images/minecraft1.gif) no-repeat;
+    background: url(images/minecraft.gif) no-repeat;
     background-size: cover;
 }
 .sidenav {
