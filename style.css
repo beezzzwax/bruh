@@ -28,7 +28,7 @@ img {
     box-sizing:border-box;
 }
 body{
-    background: url(images/minecraft.gif) no-repeat;
+    background: url(images/minecraft1.gif) no-repeat;
     background-size: cover;
 }
 .sidenav {
@@ -77,4 +77,12 @@ body{
 .grok {
     margin-left: auto;
     margin-right: auto;
+}
+.grr {
+    font-size: 40px;
+    cursor: pointer;
+    color: rgb(126, 121, 121);
+    position: fixed;
+    top: 10px;
+    left: 10px;
 }
